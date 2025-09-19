@@ -23,3 +23,18 @@ footer {
   bottom: 0;
   width: 100%;
 }
+#caracteristicas {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+#caractersticas ul {
+  list-style-type: none;
+  padding: 0;
+}
+#caracteristicas {
+  background-color: #ddd;
+  padding: 0.5rem 0;
+  margin: 0.5rem;
+  border-radius: 5px;
+}
